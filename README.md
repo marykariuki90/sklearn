@@ -1,2 +1,2 @@
 # sklearn
-it consist code on classification on sklearn
+it consist codes on preprocessing,encoding and classification in sklearn
